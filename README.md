@@ -19,5 +19,5 @@ command: git rebase -- x
 explain in simple terms git cherry-pick and the command for it?
 choosing a commit from one branch and applying it to another branch.
 
-command:  git-cherry-pick
+command: git-cherry-pick
 
